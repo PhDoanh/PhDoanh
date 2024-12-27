@@ -22,7 +22,7 @@ You may not find them here yet because my journey **has just begun**! Therefore,
 </div>
  
 ### Languages-Frameworks-Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord,latex,mysql,npm,obsidian,react,replit,stackoverflow,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,ts,discord,latex,mysql,npm,obsidian,react,replit,stackoverflow,vscode,git,cmake,nodejs,postgres,qt,powershell,vercel,)](https://skillicons.dev)
 
 ### My Contributions 🐍
 <div align="center">
