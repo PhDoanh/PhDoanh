@@ -25,7 +25,7 @@ You may not find them here yet because my journey **has just begun**! Therefore,
 </div>
  
 ### Languages-Frameworks-Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,ts,discord,latex,mysql,npm,obsidian,react,replit,stackoverflow,vscode,git,cmake,nodejs,postgres,qt,powershell,vercel,linux,regex,gcp,figma,githubactions,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,ts,mysql,postgres,redis,nodejs,npm,obsidian,replit,discord,stackoverflow,vscode,idea,git,cmake,qt,powershell,windows,linux,ubuntu,latex,regex,figma,githubactions,docker,azure,gcp)](https://skillicons.dev)
 
 ### My Contributions 🐍
 <div align="center">
