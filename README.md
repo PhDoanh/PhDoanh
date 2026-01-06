@@ -2,11 +2,9 @@
 
 <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=30&duration=3000&pause=1000&color=2EF7CE&center=false&vCenter=true&random=true&width=500&height=70&lines=Hello👋🏻+I'm+Doanh.;+Xin+chào👋+Mình+là+Doanh.;+こんにちは👋🏽+ゾアインです。" /></h1>
 
-I am currently a university student majoring in **Japanese-oriented information technology**, with a passion for **content creating** and **IoT programming**. 
+I am currently a university student majoring in **Japanese-oriented information technology**, with a passion for **Content Creating** and **Software Engineering**. 
 
-You may not find them here yet because my journey **has just begun**! Therefore, I am eager to learn from experts in this field or those with experience in any field. _Someone once said:_
-
-> _Knowledge is the root of all problems!_
+You may not find them here yet because my journey **has just begun**! Therefore, I am eager to learn from experts in this field or those with experience in any field.
 
 ### Connect with me 🤝
 <div> 
@@ -25,7 +23,7 @@ You may not find them here yet because my journey **has just begun**! Therefore,
 </div>
  
 ### Languages-Frameworks-Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,ts,mysql,postgres,redis,nodejs,npm,obsidian,replit,discord,stackoverflow,vscode,idea,git,cmake,qt,powershell,windows,linux,ubuntu,latex,regex,figma,githubactions,docker,azure,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,ts,mysql,postgres,nodejs,npm,obsidian,vscode,git,powershell,latex,regex,githubactions,docker)](https://skillicons.dev)
 
 ### My Contributions 🐍
 <div align="center">
